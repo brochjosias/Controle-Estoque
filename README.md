@@ -6,7 +6,7 @@ Visão Geral: Este sistema proporciona uma variedade de recursos, incluindo a ad
 
 Funcionalidades: Cadastrar, deletar, ver saldo, entradas e saídas de produtos.
 
-Tecnologias Utilizadas: Linguagens de Programação: JavaScript; Frameworks: React, Next, Chakra-ui; Banco de Dados: Local Storage.
+Tecnologias Utilizadas: Linguagens de Programação: JavaScript, HTML e CSS; Frameworks: React, Next, Chakra-ui; Banco de Dados: Local Storage.
 
 Configuração do Ambiente de Desenvolvimento, siga estas etapas:
 
