@@ -2,20 +2,34 @@
 
 Bem-vindo ao Controle-Estoque! Este é um sistema de gerenciamento de estoque para empresas do ramo que oferece todas as funcionalidades essenciais.
 
-Visão Geral: Este sistema proporciona uma variedade de recursos, incluindo a administração de estoque para diversos produtos, além de facilitar a realização de operações básicas.
+## Visão Geral
 
-Funcionalidades: Cadastrar, deletar, ver saldo, entradas e saídas de produtos.
+Este sistema proporciona uma variedade de recursos, incluindo a administração de estoque para diversos produtos, além de facilitar a realização de operações básicas.
 
-Tecnologias Utilizadas: Linguagens de Programação: JavaScript, HTML e CSS; Frameworks: React, Next, Chakra-ui; Banco de Dados: Local Storage.
+## Funcionalidades
 
-Configuração do Ambiente de Desenvolvimento, siga estas etapas:
+Cadastrar, deletar, ver saldo, entradas e saídas de produtos
 
-Faça o download do repositório;
+## Tecnologias Utilizadas
 
-Em seu ambiente de desenvolvimento:
+Linguagens de Programação: _JavaScript_, _HTML_, _CSS_
+Frameworks: _React_, _Next.js_, _Chakra UI_
+Banco de Dados: _Local Storage_
 
-cd controle-estoque;
+## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
-Instale as Dependências: npm install;
+```bash
+cd controle-estoque
+```
 
-Inicie o projeto: yarn dev.
+Instale as Dependências:
+
+```bash
+npm install
+```
+
+Inicie o projeto:
+
+```bash
+yarn dev
+```
