@@ -12,9 +12,11 @@ Cadastrar, deletar, ver saldo, entradas e saídas de produtos
 
 ## Tecnologias Utilizadas
 
-Linguagens de Programação: _JavaScript_, _HTML_, _CSS_
-Frameworks: _React_, _Next.js_, _Chakra UI_
-Banco de Dados: _Local Storage_
+- JavaScript
+- HTML
+- CSS
+- Next.js
+- Chakra UI
 
 ## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
